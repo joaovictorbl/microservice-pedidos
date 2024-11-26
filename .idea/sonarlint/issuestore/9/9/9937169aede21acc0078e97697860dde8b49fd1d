@@ -1,6 +1,0 @@
-
-’	java:S116"PRename this field "QUEUE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶µºÎ8²½Þ­µ2J$0583c42d-8e0a-427b-b29c-d8fc9ff7a613
-d
-java:S1170"!Make this final field static too.(¶µºÎ8´½Þ­µ2J$ceeb1a4a-d2ed-40d1-b20a-9ce6618b8873
-—
-java:S1450"TRemove the "QUEUE" field and declare it as a local variable in the relevant methods.(¶µºÎ8·½Þ­µ2J$b70bc5dc-e0f4-4063-b8da-8b57564e41e6
