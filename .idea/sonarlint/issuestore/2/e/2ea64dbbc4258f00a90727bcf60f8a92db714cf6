@@ -1,0 +1,8 @@
+
+l
+java:S2629'"$Invoke method(s) only conditionally.(ú¹È‘ÿÿÿÿÿ8Ó¶Ã§µ2J$fe234030-92c3-459a-b6e2-dc512675c22d
+©
+java:S3457'"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(ú¹È‘ÿÿÿÿÿ8‡·Ã§µ2J$1adab8d1-06ac-4708-a636-5289c998428f
+~
+java:S1128
+"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8¦õÔ§µ2J$3e56c114-ce76-4074-81b2-9b958ec8daf2
