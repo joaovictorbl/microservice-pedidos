@@ -1,0 +1,51 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+out/
+*.ipr
+*.iws
+
+# SonarLint
+.sonar/
+.sonarlint/
+
+# Maven
+target/
+*.log
+
+# Gradle
+.gradle/
+build/
+
+# Node.js (caso utilize)
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup and temporary files
+*.swp
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Compiled class files
+*.class
+
+# Java specific
+*.war
+*.jar
+
+# Environment files
+.env
+.env.local
+
+# Miscellaneous
+*.idea/
+*.vscode/
